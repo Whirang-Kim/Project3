@@ -183,6 +183,19 @@ h3{
   line-height:2.0em;
 }
 .marker{
-  text-align:right;
-  font-size:10px;
+  margin-right:20px;
+  margin-left:20px;
+  margin-top:10px;
+  font-family:'cabin';
+  font-size:20px;
+  padding:10px;
+  border: 5px solid purple;
+  border-radius: 10px 0 10px 0;
+  color: black;
+  background-color:rgba( 255, 255, 255, 0.8 );
+  line-height:2.0em;
+}
+.kor_mar{
+  text-align:center;
+  font-size:30px;
 }
