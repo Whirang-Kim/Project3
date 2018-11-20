@@ -5,7 +5,7 @@ function initMap(){
   var dorm = {lat:36.761508, lng: 127.283150};
   var map = new google.maps.Map(
     document.getElementById('map'), {
-    zoom: 12.5, center: koreatech
+    zoom: 20, center: koreatech
     }
  );
  
