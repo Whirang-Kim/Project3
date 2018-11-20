@@ -199,3 +199,7 @@ h3{
   text-align:center;
   font-size:30px;
 }
+#map{
+  height:500px;
+  position:relative;
+}
