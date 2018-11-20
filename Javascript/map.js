@@ -24,7 +24,7 @@ function initMap(){
     map: map
   });
   
-  var fourth = new google.maps.Marker{{
+  var fourth = new google.maps.Marker({
     position: dorm,
 	map: map
   });
